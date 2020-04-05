@@ -1,0 +1,36 @@
+body {
+  font-family: arial;
+}
+
+.text-left {
+  text-align: left;
+}
+
+.container {
+  padding-left: 15%;
+  padding-right: 15%;
+  background-color: #fefefefe;
+}
+
+.hello {
+  color: #009688;
+}
+
+.meomeomeo {
+  -webkit-transform: rotate(45, 50, 50);
+          transform: rotate(45, 50, 50);
+}
+
+.anotherme {
+  text-align: center;
+}
+
+section {
+  border-bottom: solid 1px;
+}
+
+a {
+  color: #000000;
+  text-decoration: none;
+}
+/*# sourceMappingURL=style.css.map */
